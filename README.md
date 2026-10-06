@@ -1,2 +1,2 @@
 # Delta-Demoo
-this is for Git and Github
+this is for Git and Github.
